@@ -19,7 +19,7 @@ This is a simple Contact Management System implemented to help users manage thei
    
     git clone https://github.com/yourusername/contact-management-system.git
     
-    cd contact-management-system
+    cd contactmanagementsystem
     
 
 2. Install the required dependencies:
