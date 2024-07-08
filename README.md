@@ -17,7 +17,7 @@ This is a simple Contact Management System implemented to help users manage thei
 
 1. Clone the repository:
    
-    git clone https://github.com/yourusername/contact-management-system.git
+    git clone https://github.com/221FA04356/codsoft_task5.git
     
     cd contactmanagementsystem
     
